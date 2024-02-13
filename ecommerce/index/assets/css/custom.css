@@ -1,0 +1,58 @@
+
+.error {
+    color: #af4242;
+    background-color: #fde8ec;
+    padding: 10px;
+    display: none;
+    transform: translateY(-20px);
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    width: 230px;
+}
+
+#navbar {
+    background-color: beige;
+}
+
+.bg   {
+    background-image: url(../images/background-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.buttonRed {
+              background-color: #af4c4c;
+              border: none;
+              color: white;
+              padding: 5px 22px;
+              text-align: center;
+              text-decoration: none;
+              display: inline-block;
+              font-size: 16px;
+              margin: 4px 2px;
+              cursor: pointer;
+          }
+
+
+.name {
+    font-size: 12px;
+    text-align: center;
+}
+
+.success {
+    color: #42af6a;
+    background-color: #e8fdf8;
+    padding: 10px;
+    display: block;
+    transform: translateY(-20px);
+    margin-top: 25px;
+    font-size: 20px;
+    width: 230px;
+}
+.fieldAdd {
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
